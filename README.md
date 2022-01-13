@@ -1,6 +1,6 @@
 - 👋  Hi, I am Janic. I do open source software development
 
-- 🔭 Personal Projects: [Chorely](https://link.janic.io/2qtkz6qs7), [OmegaStore](https://github.com/OmegaChat/OmegaStore)
+- 🔭 Personal Projects: [Chorely](https://chorely.app)
 
 - 🤹 Skills & Experience: 
 
