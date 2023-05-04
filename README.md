@@ -1,7 +1,4 @@
 - 👋  Hi, I am Janic. I do open source software development
-
-- 🔭 Personal Projects: [Chorely](https://chorely.app)
-
 - 🤹 Skills & Experience: 
 
   - 🏙 **Frontend**: <img alt="HTML" width="20px" src="./icons/html.svg" /> <img alt="CSS" width="20px" src="./icons/css.svg" /> <img alt="JS" width="20px" src="./icons/javascript.svg" /> <img alt="Typescript" width="20px" src="./icons/typescript.svg" /> <img alt="SCSS" width="20px" src="./icons/sass.svg" /> <img alt="Tailwind" width="20px" src="./icons/tailwind.svg" /> <img alt="React" width="20px" src="./icons/react.svg" /> <img alt="Vue" width="20px" src="./icons/vue.svg" /> <img alt="Flutter" width="20px" src="./icons/flutter.svg" /> <img alt="Svelte" width="20px" src="./icons/svelte.svg" /> <img alt="Next" width="20px" src="./icons/next.svg" />
